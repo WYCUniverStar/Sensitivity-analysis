@@ -3,4 +3,4 @@
 
 
 
-本项目所选取的开发环境为python3.8，采用jupyter notebook进行开发
+本项目所选取的开发环境为python3.8，采用jupyter notebook进行开发。
